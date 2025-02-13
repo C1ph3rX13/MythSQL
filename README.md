@@ -12,3 +12,5 @@ MySQL Honeypot
 1. 支持构造自定义读取文件 `Payload`
 
 2. 支持 `Navicat 17` ，`MySQL Command Line` 全过程连接交互，以及查询交互
+
+3. 不支持`Navicat 17`文件读取漏洞
